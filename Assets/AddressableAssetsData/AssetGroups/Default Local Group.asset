@@ -16,7 +16,22 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: aefad3166b49640bab1c7afce8530fa2
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 02a0d11673233409cbc0f1ce4ae3ed5d
+    m_Address: Assets/Audio Clips/ES_Gunshot Shotgun 161 - SFX Producer (1).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9fc0d4010bbf28b4594072e72b8655ab
+    m_Address: Assets/Scenes/SampleScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab40d14847e54dd49bf73664f2fd8b23
+    m_Address: Assets/Materials/Braum_Armor_Skin_02_Mat 1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: cf31a1830183c45a8bebf15a7448cae5, type: 2}
   m_SchemaSet:

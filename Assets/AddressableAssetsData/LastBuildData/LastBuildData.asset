@@ -12,3 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 211c2e47cbe44492f8d19ac30f3abde6, type: 3}
   m_Name: LastBuildData
   m_EditorClassIdentifier: 
+  m_EntryPaths:
+  - '*/Resources/'
+  - Scenes In Build
+  - Assets/Audio Clips/ES_Gunshot Shotgun 161 - SFX Producer (1).mp3
+  - Assets/Scenes/SampleScene.unity
+  m_EntryHashes:
+  - 00000000000000000000000000000000
+  - 00000000000000000000000000000000
+  - b3aaa4825404333e70f19811176dddf3
+  - 56804fa1268c9a0cfc0c853fdcdd8be6
